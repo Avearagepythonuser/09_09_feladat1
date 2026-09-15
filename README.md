@@ -1,1 +1,1 @@
-Publikált oldal címe: 20260909feladat1ma.netlify.app
+Publikált oldal címe: https://avearagepythonuser.github.io/09_09_feladat1/
